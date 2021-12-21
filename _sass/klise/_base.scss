@@ -272,6 +272,10 @@ blockquote {
   }
 }
 
+html, body {
+  height: 100%;
+}
+
 // Wrapper
 .wrapper {
   max-width: -webkit-calc(#{$narrow-size} - (#{$spacing-full} * 2));
@@ -279,6 +283,7 @@ blockquote {
   position: relative;
   margin-right: auto;
   margin-left: auto;
+
   padding-right: $spacing-full;
   padding-left: $spacing-full;
   @extend %clearfix;
