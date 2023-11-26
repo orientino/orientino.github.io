@@ -25,6 +25,15 @@ strong {
   color: var(--global-text-color);
 }
 
+p,
+em,
+div,
+li,
+span,
+strong {
+  font-size: 1.05rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -191,7 +200,8 @@ blockquote {
   margin-right: auto;
 
   .more-info {
-    margin-top: 5px;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
     font-family: 'Ubuntu Mono', monospace !important;
   }
 }
@@ -370,7 +380,8 @@ blockquote {
 
 .social {
   text-align: center;
-  margin-left: 1.5rem;
+  margin-left: 1.15rem;
+  margin-bottom: 2rem;
 
   .contact-icons {
     a {
@@ -380,10 +391,9 @@ blockquote {
       color: #333 !important;
       border-radius: 100%;
       text-align: center;
-      font-size: 1.4rem;
+      font-size: 1.2rem;
       line-height: 1.5rem;
-      margin-right: 1.5rem;
-      margin-bottom: 1rem;
+      margin-right: 1.15rem;
 
       i::before {
         color: var(--global-text-color);
@@ -542,8 +552,8 @@ footer.sticky-bottom {
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 
     .post-meta {
       color: var(--global-text-color-light);
