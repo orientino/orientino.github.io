@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons
 ---
 
-Welcome! I am a first year PhD student in the [Security and Trust of Software Systems](https://satoss.uni.lu/) group at the [University of Luxembourg](https://www.uni.lu/). My research focuses on trustworthy machine learning focusing on distribution shift, robustness and privacy risks. I am interested in studying deep learning from the theoretical aspects while also learning about cool practical applications to science domains such as healthcare.
+Welcome! I am a first-year Ph.D. student in the [Security and Trust of Software Systems](https://satoss.uni.lu/) group at the [University of Luxembourg](https://www.uni.lu/). My research focuses on trustworthy machine learning, specifically on the robustness, distribution shifts, and privacy risks of neural networks.   
 
-Born in China and raised in Italy, I received my education at the [University of Pisa](https://di.unipi.it/) in Computer Science. During the last year of my studies, I collaborated with the [DAML](https://www.cs.cit.tum.de/en/daml/home/) group in Munich and interned at [Amazon Music](https://music.amazon.com/) in Berlin. Feel free to contact me for anything! :)
+Born in China and raised in Italy, I received my education at the [University of Pisa](https://di.unipi.it/) in Computer Science. During my studies, I collaborated with the [DAML](https://www.cs.cit.tum.de/en/daml/home/) group in Munich and interned at [Amazon](https://music.amazon.com/) in Berlin. Feel free to contact me for a chat!

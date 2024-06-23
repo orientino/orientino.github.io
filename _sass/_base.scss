@@ -200,10 +200,11 @@ blockquote {
   margin-left: auto;
   margin-right: auto;
 
+  // Modify margin under the profile pic
   .more-info {
-    font-size: 0.9rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.0rem;
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     font-family: 'Ubuntu Mono', monospace !important;
   }
 }
