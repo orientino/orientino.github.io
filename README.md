@@ -1,6 +1,10 @@
 ## Simple Academic Webpage
 
-The simplest template with only two small files: `index.html` (<50 LOC) and `styles.css` (<100 LOC). Mobile-friendly, no dependencies, and no bullshit. 
+The simplest and cleanest academic template with only two files: 
+- `index.html` (<50 LOC)
+- `styles.css` (<100 LOC)
+
+Mobile-friendly, no dependencies, and no bullshit. 
 
 ### Setup
 
