@@ -2,30 +2,31 @@
 
 body {
     font-family: Arial;
+    font-size: 16px;
     line-height: 1.5;
     color: #333333;
     background-color: #ffffff;
-    padding: 40px 40px 40px 40px;
+    padding: 50px 50px 50px 50px;
 }
 
 .title {
     font-family: Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     max-width: 800px;
-    margin: 20px auto auto auto;
+    margin: 25px auto auto auto;
 }
 
 .subtitle {
     font-family: 'Ubuntu Mono';
     max-width: 800px;
-    margin: 0px auto 20px auto;
+    margin: 0px auto 25px auto;
 }
 
 .container {
     max-width: 800px;
     gap: 80px;
     display: flex;
-    margin: 20px auto;
+    margin: 25px auto;
 }
 
 .left-section {
@@ -37,30 +38,30 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: -40px 0 0 0;
+    margin: -50px 0 0 0;
 }
 
 .profile-photo {
     max-width: 200px;
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .email {
     font-family: 'Ubuntu Mono';
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
-    margin: 20px auto 10px auto;
+    margin: 25px auto 10px auto;
 }
 
 .social-links {
     display: flex;
-    gap: 20px;
+    gap: 18px;
 }
 
 .social-links a {
     color: #333333;
     transition: opacity 0.2s;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .social-links a:hover {
@@ -70,19 +71,18 @@ body {
 /* Mobile responsive */
 @media (max-width: 768px) {
     .title {
-        display: block;
+        font-size: 30px;
         text-align: center;
+        margin-top: -25px;
     }
 
     .subtitle {
-        display: block;
         text-align: center;
-        margin-bottom: 10px;
     }
     
     .container {
         flex-direction: column;
-        gap: 20px;
+        gap: 25px;
     }
     
     .right-section {
